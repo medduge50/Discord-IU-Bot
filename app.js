@@ -723,4 +723,4 @@ client.on("message", msg => {
     }
 });
 
-client.login(keys.token);
+client.login(key.NzQ1MTY3MzYzMTExOTExNTY2.Xzt1Lw.z51RfbXVluIpw9BEKHDrv3jOjcA);
